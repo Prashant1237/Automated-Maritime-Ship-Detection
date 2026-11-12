@@ -18,7 +18,7 @@ pip install -r requirements.txt
 (If activate is blocked: `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`, then retry.)
 NVIDIA GPU users: first install CUDA PyTorch from pytorch.org, then the requirements.
 
-## 2. Build dataset (downloads ~3,600 sampled images)
+## 2. Build dataset (downloads ~6,000 sampled images)
 ```
 python prepare_data.py
 ```
