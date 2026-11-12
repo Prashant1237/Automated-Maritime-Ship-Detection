@@ -1,0 +1,7 @@
+HOW TO APPLY THIS UPDATE
+1. Close the running app (Ctrl+C in the terminal).
+2. Extract this zip and COPY everything inside it into your project folder
+   (C:\Users\prash\Downloads\ship_detection\ship_detection), choosing "Replace" when asked.
+   Include the hidden folder .streamlit. Do NOT delete data\, datasets\, models\, runs\, results\ or venv.
+3. In the VS Code terminal (venv active):   pip install transformers
+4. Start:   streamlit run app.py

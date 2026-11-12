@@ -1,0 +1,6 @@
+path: C:/Users/prash/Downloads/ship_detection/ship_detection/datasets/ships
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: ship
